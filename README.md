@@ -14,5 +14,6 @@ Check out
 
 Generation example
 ------------------
+Generate
 
-xjc -p de.claudioaltamura.jaxb.generated helloworld.xsd
+	xjc -p de.claudioaltamura.jaxb.generated helloworld.xsd
